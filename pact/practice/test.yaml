@@ -1,0 +1,14 @@
+codeFile: /Users/ptmew/Coding/kadena/pact/practice/test.pact
+networkId: testnet04
+publicMeta:
+  chainId: "1"
+  gasLimit: 100000
+  ttl: 28000
+  creationTime: 1652196274
+  sender: "92da8e5c60487bd4ce360c00c89334ca31bee908240a815b03e413d990c56918"
+  gasPrice: 0.00001
+
+keyPairs:
+  - public: 92da8e5c60487bd4ce360c00c89334ca31bee908240a815b03e413d990c56918
+    secret: ee929d7fd1becebcb9e2677c503cee2e7801b3f24c82df6071db719369c0f8dd
+nonce: step01
